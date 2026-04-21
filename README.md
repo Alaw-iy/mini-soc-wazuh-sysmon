@@ -1,5 +1,6 @@
 # mini-soc-wazuh-sysmon
-SOC com Wazuh e Sysmon para detecção de eventos em endpoint Windows
+
+Projeto de laboratório focado em Blue Team para coleta, análise e detecção de eventos em endpoint Windows, com Wazuh como SIEM e Sysmon como fonte de telemetria avançada. O ambiente foi construído em máquinas virtuais, com autenticação de agente, ingestão de logs e criação de regra customizada para detecção de PowerShell.
 
 ## Objetivo
 Implementar um ambiente de monitoramento capaz de detectar eventos de segurança em um endpoint Windows.
