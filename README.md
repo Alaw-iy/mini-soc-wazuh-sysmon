@@ -1,8 +1,6 @@
 # mini-soc-wazuh-sysmon
 SOC com Wazuh e Sysmon para detecção de eventos em endpoint Windows
 
-# Mini SOC com Wazuh e Sysmon
-
 ## Objetivo
 Implementar um ambiente de monitoramento capaz de detectar eventos de segurança em um endpoint Windows.
 
